@@ -187,7 +187,6 @@ def main():
         
         prob_data = pd.Series(probability_prediction)
         st.bar_chart(prob_data)
-        st.bar_chart(probability_prediction)
         
 
 if __name__ == "__main__":
