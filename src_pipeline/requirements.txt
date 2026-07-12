@@ -1,0 +1,10 @@
+joblib
+numpy==1.26.4
+lz4==4.4.5
+numpy==1.26.4
+pandas
+boto3
+botocore
+streamlit
+
+#Requirement for EC2 opt/ml
