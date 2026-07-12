@@ -11,6 +11,9 @@ import mlflow
 import warnings
 warnings.filterwarnings("ignore") #debug
 
+""" IMPORTANT:
+This code only works if you have full access with AWS paid service. This code may fail to execute in limited permission of AWS learner lab access.
+"""
 
 if __name__ == "__main__":
     #=== Data_ingestion ===
