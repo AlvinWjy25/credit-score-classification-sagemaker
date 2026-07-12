@@ -1,8 +1,5 @@
-joblib
-numpy==1.26.4
 lz4==4.4.5
+scikit-learn==1.7.2
 numpy==1.26.4
-pandas
-boto3
-botocore
-streamlit
+
+## Inference endpoint processing requirement
